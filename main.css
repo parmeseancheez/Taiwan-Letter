@@ -32,12 +32,12 @@ html {
 }
 
 body {
-    background-color:lightblue;
+    background-color:honeydew;
     margin: 0 100px;
 }
 
 .header {
-  background-color: honeydew;
+  background-color:cornflowerblue;
   color: #ffffff;
   padding: 15px;
 }
