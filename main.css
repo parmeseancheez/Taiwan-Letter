@@ -28,6 +28,12 @@
 
 html {
   font-family: "Lucida Sans", sans-serif;
+  background-color: whitesmoke;
+}
+
+body {
+    background-color: moccasin;
+    margin: 0 100px;
 }
 
 .header {
