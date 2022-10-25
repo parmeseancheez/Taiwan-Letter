@@ -118,3 +118,9 @@ nav a.active {
   background-color: #04AA6D;
   color: white;
 }
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
