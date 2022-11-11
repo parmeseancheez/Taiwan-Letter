@@ -72,6 +72,7 @@ body {
   background-image: url(8A2192BF-5F08-4113-AFB8-0156DD73948A.jpeg);
   background-position: center;
   background-size: cover;
+  filter: brightness(0.50);
   color: #ffffff;
   padding: 15px;
 }
