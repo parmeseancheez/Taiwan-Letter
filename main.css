@@ -68,7 +68,7 @@ body {
 }
 
 .header {
-  box-shadow: 0 0 0 1000px linear-gradient(90deg, rgba(59,86,145,1) 0%, rgba(9,9,121,0) 33%) inset;
+  /*box-shadow: 0 0 0 1000px linear-gradient(90deg, rgba(59,86,145,1) 0%, rgba(9,9,121,0) 33%) inset;*/
   background-image: url(8A2192BF-5F08-4113-AFB8-0156DD73948A.jpeg);
   background-position: center;
   background-size: cover;
